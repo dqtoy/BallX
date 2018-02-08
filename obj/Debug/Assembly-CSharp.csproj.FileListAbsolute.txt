@@ -1,0 +1,44 @@
+D:\My Game\New Unity Project 1\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\My Game\New Unity Project 1\Temp\bin\Debug\Assembly-CSharp.dll
+D:\My Game\New Unity Project 1\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\My Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.dll
+D:\My Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.dll
+D:\My Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\My Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.UI.dll
+D:\My Game\New Unity Project 1\Temp\bin\Debug\Mono.Cecil.dll
+D:\My Game\New Unity Project 1\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\My Game\New Unity Project 1\Temp\bin\Debug\Unity.DataContract.dll
+D:\My Game\New Unity Project 1\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\My Game\New Unity Project 1\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\My Game\New Unity Project 1\Temp\bin\Debug\Unity.CecilTools.dll
+D:\My Game\New Unity Project 1\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\My Game\New Unity Project 1\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\My Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.xml
+D:\My Game\New Unity Project 1\Temp\bin\Debug\UnityEditor.xml
+D:\My Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.UI.xml
+D:\My Game\New Unity Project 1\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\My Game\New Unity Project 1\obj\Debug\Assembly-CSharp.dll
+D:\My Game\New Unity Project 1\obj\Debug\Assembly-CSharp.pdb
+D:\My Game\New Unity Project 1\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Projects Games\New Unity Project 1\New Unity Project 1\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Projects Games\New Unity Project 1\New Unity Project 1\obj\Debug\Assembly-CSharp.dll
+E:\Projects Games\New Unity Project 1\New Unity Project 1\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Projects Games\New Unity Project 1\New Unity Project 1\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Projects Games\New Unity Project 1\New Unity Project 1\Temp\bin\Debug\UnityEditor.dll
+E:\Projects Games\New Unity Project 1\New Unity Project 1\Temp\bin\Debug\UnityEngine.dll
+E:\Projects Games\New Unity Project 1\New Unity Project 1\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Projects Games\New Unity Project 1\New Unity Project 1\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Projects Games\New Unity Project 1\New Unity Project 1\Temp\bin\Debug\Mono.Cecil.dll
+E:\Projects Games\New Unity Project 1\New Unity Project 1\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Projects Games\New Unity Project 1\New Unity Project 1\Temp\bin\Debug\Unity.DataContract.dll
+E:\Projects Games\New Unity Project 1\New Unity Project 1\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Projects Games\New Unity Project 1\New Unity Project 1\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Projects Games\New Unity Project 1\New Unity Project 1\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Projects Games\New Unity Project 1\New Unity Project 1\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Projects Games\New Unity Project 1\New Unity Project 1\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Projects Games\New Unity Project 1\New Unity Project 1\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Projects Games\New Unity Project 1\New Unity Project 1\Temp\bin\Debug\UnityEngine.xml
+E:\Projects Games\New Unity Project 1\New Unity Project 1\Temp\bin\Debug\UnityEditor.xml
+E:\Projects Games\New Unity Project 1\New Unity Project 1\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Projects Games\New Unity Project 1\New Unity Project 1\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Projects Games\New Unity Project 1\New Unity Project 1\obj\Debug\Assembly-CSharp.pdb
